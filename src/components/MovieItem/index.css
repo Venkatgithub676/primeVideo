@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.imgs {
+  width: 280px;
+}
+
+.video-con {
+  width: 600px;
+  height: 350px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  padding: 10px;
+  align-items: center;
+}
+
+.imgs-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.react-player {
+}
+
+.close-btn {
+  background-color: transparent;
+  border: none;
+  height: 50px;
+  align-self: flex-end;
+  outline: none;
+  cursor: pointer;
+}
+
+.close-btn-icon {
+  font-size: 25px;
+}
